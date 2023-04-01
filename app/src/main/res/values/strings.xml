@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContadordePildoras</string>
+    <string name="tvContador"> </string>
+    <string name="tvTEXTO">"CONTADOR"</string>
+    <string name="btnSUMAR">+</string>
+    <string name="btnRESTAR">-</string>
+    <string name="btnRECETEAR">RESETEAR</string>
+    <string name="cbx1">CONTAR NEGATIVOS</string>
+
+
+</resources>
